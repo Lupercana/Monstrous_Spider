@@ -21,6 +21,7 @@
   <backgrounds name="background">
     <background>background\bg_cave</background>
     <background>background\bg_new_cve</background>
+    <background>background\bg_instructions</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\pth_right_jump</path>
@@ -35,6 +36,7 @@
     <object>objects\obj_sword_slash</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rm_instructions</room>
     <room>rooms\rm_cave</room>
   </rooms>
   <help>
