@@ -159,7 +159,7 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="9" enumb="32">
+    <event eventtype="9" enumb="74">
       <action>
         <libid>1</libid>
         <id>226</id>
