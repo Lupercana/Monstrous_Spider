@@ -27,6 +27,9 @@
     <path>paths\pth_right_jump</path>
     <path>paths\pth_left_jump</path>
   </paths>
+  <fonts name="fonts">
+    <font>fonts\fnt_title</font>
+  </fonts>
   <objects name="objects">
     <object>objects\obj_samuri</object>
     <object>objects\obj_cave_ground</object>
