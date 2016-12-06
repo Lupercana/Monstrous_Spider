@@ -21,11 +21,17 @@
     <sprite>sprites\sp_sword_slash</sprite>
     <sprite>sprites\sp_spider_hanging</sprite>
     <sprite>sprites\sp_spider_dead</sprite>
+    <sprite>sprites\sp_lord</sprite>
+    <sprite>sprites\sp_priest</sprite>
+    <sprite>sprites\sp_flowers</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_cave</background>
     <background>background\bg_new_cve</background>
     <background>background\bg_instructions</background>
+    <background>background\bg_lord_room</background>
+    <background>background\bg_title</background>
+    <background>background\bg_background_info</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\pth_right_jump</path>
@@ -34,16 +40,29 @@
   <fonts name="fonts">
     <font>fonts\fnt_title</font>
     <font>fonts\fnt_slain</font>
+    <font>fonts\fnt_narrative</font>
   </fonts>
   <objects name="objects">
     <object>objects\obj_samuri</object>
     <object>objects\obj_cave_ground</object>
     <object>objects\obj_spider</object>
     <object>objects\obj_web_shot</object>
-    <object>objects\obj_cmd</object>
     <object>objects\obj_sword_slash</object>
+    <object>objects\obj_lord</object>
+    <object>objects\obj_priest</object>
+    <object>objects\obj_cmd_action</object>
+    <object>objects\obj_cmd_narrative</object>
+    <object>objects\obj_cmd_display</object>
+    <object>objects\cmd_obj_instructions</object>
+    <object>objects\obj_chrysan</object>
+    <object>objects\object12</object>
+    <object>objects\obj_narrative_spider</object>
+    <object>objects\obj_narrative_samuri</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rm_title</room>
+    <room>rooms\rm_background_info</room>
+    <room>rooms\rm_narrative</room>
     <room>rooms\rm_instructions</room>
     <room>rooms\rm_cave</room>
   </rooms>
