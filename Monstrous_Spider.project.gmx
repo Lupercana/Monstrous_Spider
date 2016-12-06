@@ -17,6 +17,8 @@
     <sprite>sprites\sp_spider_shot</sprite>
     <sprite>sprites\sp_heart</sprite>
     <sprite>sprites\sp_sword_slash</sprite>
+    <sprite>sprites\sp_spider_hanging</sprite>
+    <sprite>sprites\sp_spider_dead</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_cave</background>
@@ -29,6 +31,7 @@
   </paths>
   <fonts name="fonts">
     <font>fonts\fnt_title</font>
+    <font>fonts\fnt_slain</font>
   </fonts>
   <objects name="objects">
     <object>objects\obj_samuri</object>
