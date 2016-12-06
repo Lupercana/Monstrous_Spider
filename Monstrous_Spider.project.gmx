@@ -32,6 +32,8 @@
     <background>background\bg_lord_room</background>
     <background>background\bg_title</background>
     <background>background\bg_background_info</background>
+    <background>background\bg_lord_room_day</background>
+    <background>background\bg_source_info</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\pth_right_jump</path>
@@ -54,10 +56,11 @@
     <object>objects\obj_cmd_narrative</object>
     <object>objects\obj_cmd_display</object>
     <object>objects\cmd_obj_instructions</object>
+    <object>objects\obj_cmd_conclusion</object>
     <object>objects\obj_chrysan</object>
-    <object>objects\object12</object>
     <object>objects\obj_narrative_spider</object>
     <object>objects\obj_narrative_samuri</object>
+    <object>objects\obj_small_spider</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_title</room>
@@ -65,6 +68,8 @@
     <room>rooms\rm_narrative</room>
     <room>rooms\rm_instructions</room>
     <room>rooms\rm_cave</room>
+    <room>rooms\rm_conclusion</room>
+    <room>rooms\rm_sources</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
